@@ -171,6 +171,6 @@ Healthcare-Data-Analysis/
 
 ## 👨‍💻 Author
 
-**Harish M**
+**RAKSHANA**
 
 This project was developed as part of data analysis practice using Python.
